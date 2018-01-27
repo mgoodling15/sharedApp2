@@ -6,7 +6,6 @@ target 'sharedApp2' do
   use_frameworks!
 
 	pod 'Firebase/Core'
-	pod 'Firebase/Firestore'
 
   # Pods for sharedApp2
 
