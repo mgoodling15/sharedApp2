@@ -1,0 +1,6 @@
+framework module Pods_sharedApp2Tests {
+  umbrella header "Pods-sharedApp2Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
